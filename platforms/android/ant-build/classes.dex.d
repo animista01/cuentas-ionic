@@ -1,0 +1,26 @@
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes.dex : \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/BuildConfig.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/HelloCordova.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/R$attr.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/R$drawable.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/R$string.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/R$xml.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/co/bryvinu/cuentas/R.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/BuildConfig.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/R$attr.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/R$drawable.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/R$string.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/R$xml.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/com/ionicframework/starter/R.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$1.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$Action.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBQuery.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$DBRunner.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin$QueryType.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/classes/org/pgsqlite/SQLitePlugin.class \
+/Users/bryanvillafane/Documents/Escritorio Bryan/apps/cuentasApp/cuentas/platforms/android/ant-build/dexedLibs/classes-dcb842fa9369b3ee5664a8d62e184b23.jar \

@@ -1,0 +1,57 @@
+<ion-view title="{{user.name}}">
+  <ion-content class="has-header padding has-footer">
+  	<div class="card" ng-repeat="pago in pagos">
+		  <div class="item item-text-wrap" on-hold="onHold(pago.id)" on-tap="onTap(pago.id)">
+      	<p>F-Hasta: {{pago.fecha_hasta}}  -  F-Pago: {{pago.fecha_pago}}</p>
+        <p>Abono: {{pago.abono}}</p>
+      	<p>Intereses: {{pago.intereses}}</p>
+      	<p>Saldo: {{pago.saldo}}</p>
+        <p>Comentario: {{pago.comentario}}</p>
+      </div>
+    </div>
+
+    <script id="modal-two.html" type="text/ng-template">
+      <div class="modal">
+        <ion-header-bar class="bar bar-header bar-assertive">
+          <h1 class="title">Actualizar pago</h1>
+          <button class="button button-icon ion-chevron-down" ng-click="cerrar()"></button>
+        </ion-header-bar>
+        <ion-content has-header="true" scroll="true">
+          <form ng-submit="updatePago(onePago)">
+            <input type="hidden" ng-model="onePago.id" value="{{onePago.id}}" />
+            <div class="list list-inset">
+              <label class="item item-input">
+                <input ng-model="onePago.fecha_pago" value="{{onePago.fecha_pago}}" type="text" onfocus="(this.type='date')" placeholder="Fecha Pago">
+              </label>
+              <label class="item item-input">
+                <input ng-model="onePago.fecha_hasta" type="text" value="{{onePago.fecha_hasta}}" onfocus="(this.type='date')" placeholder="Fecha Hasta">
+              </label>
+              <label class="item item-input">
+                <input type="tel" ng-model="onePago.abono" placeholder="Abono" value="{{onePago.abono}}">
+              </label>
+              <label class="item item-input">
+                <input ng-model="onePago.saldo" value="{{onePago.saldo}}" type="tel" placeholder="Saldo">
+              </label>
+              <label class="item item-input">
+                <input ng-model="onePago.intereses" value="{{onePago.intereses}}" type="tel" placeholder="Intereses">
+              </label>
+              <label class="item item-input">
+                <textarea ng-model="onePago.comentario" placeholder="Comentario">{{onePago.comentario}}</textarea>
+              </label>
+            </div>
+            <div class="padding">
+              <button class="button button-block button-positive activated" type="submit">
+                Actualizar
+              </button>
+            </div>
+          </form>
+          </ion-content>
+      </div>
+    </script>
+  </ion-content>
+  <div class="bar bar-footer bar-stable">
+    <button ng-click="editUser(user.id)" class="button button-balanced icon-left ion-edit">Editar</button>
+    <button style="margin-left:45px; margin-right:-10px;" ng-click="deleteUser(user.id)" class="button button-assertive icon-left ion-close-round">Eliminar</button>
+    <button ng-click="openModal(user.id)" class="button button-positive icon-left ion-plus-round">Añadir Pago</button>
+  </div>
+</ion-view>

@@ -1,0 +1,81 @@
+2014-10-13 16:08:21.532 Cuentas[1739:10453] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/C80587DF-923F-483E-88A9-FCC626BE020C/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:08:21.782 Cuentas[1739:10453] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:08:21.787 Cuentas[1739:10453] Unlimited access to network resources
+2014-10-13 16:08:21.961 Cuentas[1739:10453] [CDVTimer][keyboard] 0.061035ms
+2014-10-13 16:08:21.961 Cuentas[1739:10453] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:08:21.961 Cuentas[1739:10453] [CDVTimer][statusbar] 0.120997ms
+2014-10-13 16:08:21.961 Cuentas[1739:10453] [CDVTimer][TotalPluginStartup] 0.539005ms
+2014-10-13 16:08:22.674 Cuentas[1739:10453] Resetting plugins due to page load.
+2014-10-13 16:08:23.084 Cuentas[1739:10453] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/3825EBF3-66C7-427A-975E-845F21B5A673/Cuentas.app/www/index.html
+2014-10-13 16:08:23.246 Cuentas[1739:10453] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/C80587DF-923F-483E-88A9-FCC626BE020C/Documents
+2014-10-13 16:08:23.258 Cuentas[1739:10453] Good news: SQLite is thread safe!
+2014-10-13 16:08:23.259 Cuentas[1739:10453] THREAD WARNING: ['SQLitePlugin'] took '12.779053' ms. Plugin should use a background thread.
+2014-10-13 16:11:33.554 Cuentas[2001:12031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/FB3489CF-8A36-4687-B1D0-ADE996D4DEE5/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:11:33.810 Cuentas[2001:12031] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:11:33.816 Cuentas[2001:12031] Unlimited access to network resources
+2014-10-13 16:11:33.988 Cuentas[2001:12031] [CDVTimer][keyboard] 0.059962ms
+2014-10-13 16:11:33.988 Cuentas[2001:12031] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:11:33.989 Cuentas[2001:12031] [CDVTimer][statusbar] 0.115991ms
+2014-10-13 16:11:33.989 Cuentas[2001:12031] [CDVTimer][TotalPluginStartup] 0.492036ms
+2014-10-13 16:11:34.638 Cuentas[2001:12031] Resetting plugins due to page load.
+2014-10-13 16:11:35.038 Cuentas[2001:12031] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/B7FE8AC1-B8DF-408A-AEBE-0483699D2DFC/Cuentas.app/www/index.html
+2014-10-13 16:11:35.111 Cuentas[2001:12031] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/FB3489CF-8A36-4687-B1D0-ADE996D4DEE5/Documents
+2014-10-13 16:11:35.124 Cuentas[2001:12031] Good news: SQLite is thread safe!
+2014-10-13 16:11:35.125 Cuentas[2001:12031] THREAD WARNING: ['SQLitePlugin'] took '13.163086' ms. Plugin should use a background thread.
+2014-10-13 16:17:58.173 Cuentas[2335:14607] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/B00CBC0C-819F-441A-BCF5-F9DC04A59628/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:17:58.697 Cuentas[2335:14607] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:17:58.704 Cuentas[2335:14607] Unlimited access to network resources
+2014-10-13 16:17:58.882 Cuentas[2335:14607] [CDVTimer][keyboard] 0.058055ms
+2014-10-13 16:17:58.882 Cuentas[2335:14607] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:17:58.883 Cuentas[2335:14607] [CDVTimer][statusbar] 0.124037ms
+2014-10-13 16:17:58.883 Cuentas[2335:14607] [CDVTimer][TotalPluginStartup] 0.506043ms
+2014-10-13 16:17:59.627 Cuentas[2335:14607] Resetting plugins due to page load.
+2014-10-13 16:18:00.035 Cuentas[2335:14607] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/4CB31E82-3C1F-4EA0-A7A3-7FE414F95AE1/Cuentas.app/www/index.html
+2014-10-13 16:18:00.146 Cuentas[2335:14607] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/B00CBC0C-819F-441A-BCF5-F9DC04A59628/Documents
+2014-10-13 16:18:00.147 Cuentas[2335:14607] Good news: SQLite is thread safe!
+2014-10-13 16:19:43.415 Cuentas[2548:15656] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/28E5199C-45C1-49FC-A776-6F98586D61A0/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:19:43.564 Cuentas[2548:15656] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:19:43.570 Cuentas[2548:15656] Unlimited access to network resources
+2014-10-13 16:19:43.705 Cuentas[2548:15656] [CDVTimer][keyboard] 0.056982ms
+2014-10-13 16:19:43.705 Cuentas[2548:15656] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:19:43.705 Cuentas[2548:15656] [CDVTimer][statusbar] 0.120997ms
+2014-10-13 16:19:43.705 Cuentas[2548:15656] [CDVTimer][TotalPluginStartup] 0.504017ms
+2014-10-13 16:19:44.222 Cuentas[2548:15656] Resetting plugins due to page load.
+2014-10-13 16:19:44.413 Cuentas[2548:15656] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/EA203F25-D915-41A7-8C5F-81DC7DC14CA3/Cuentas.app/www/index.html
+2014-10-13 16:19:44.478 Cuentas[2548:15656] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/28E5199C-45C1-49FC-A776-6F98586D61A0/Documents
+2014-10-13 16:19:44.479 Cuentas[2548:15656] Good news: SQLite is thread safe!
+2014-10-13 16:20:15.072 Cuentas[2730:16254] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/781CA9A9-3B27-4A6E-9740-2E76D87264C9/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:20:15.204 Cuentas[2730:16254] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:20:15.210 Cuentas[2730:16254] Unlimited access to network resources
+2014-10-13 16:20:15.498 Cuentas[2730:16254] [CDVTimer][keyboard] 0.060022ms
+2014-10-13 16:20:15.498 Cuentas[2730:16254] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:20:15.498 Cuentas[2730:16254] [CDVTimer][statusbar] 0.182986ms
+2014-10-13 16:20:15.498 Cuentas[2730:16254] [CDVTimer][TotalPluginStartup] 0.602007ms
+2014-10-13 16:20:16.079 Cuentas[2730:16254] Resetting plugins due to page load.
+2014-10-13 16:20:16.337 Cuentas[2730:16254] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/F3D1DDF6-1FC1-4A8C-ACF1-3CF0FAD50AE7/Cuentas.app/www/index.html
+2014-10-13 16:20:16.425 Cuentas[2730:16254] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/781CA9A9-3B27-4A6E-9740-2E76D87264C9/Documents
+2014-10-13 16:20:16.427 Cuentas[2730:16254] Good news: SQLite is thread safe!
+2014-10-13 16:20:51.369 Cuentas[2915:16937] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/9468CD53-9A82-469C-AF6B-77F2BE6A8A03/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:20:51.459 Cuentas[2915:16937] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:20:51.466 Cuentas[2915:16937] Unlimited access to network resources
+2014-10-13 16:20:51.590 Cuentas[2915:16937] [CDVTimer][keyboard] 0.089049ms
+2014-10-13 16:20:51.590 Cuentas[2915:16937] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:20:51.591 Cuentas[2915:16937] [CDVTimer][statusbar] 0.186980ms
+2014-10-13 16:20:51.591 Cuentas[2915:16937] [CDVTimer][TotalPluginStartup] 0.715971ms
+2014-10-13 16:20:51.675 Cuentas[2915:16937] Resetting plugins due to page load.
+2014-10-13 16:20:51.881 Cuentas[2915:16937] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/83586D3D-1479-4F6B-B6A8-AFFC8948061B/Cuentas.app/www/index.html
+2014-10-13 16:20:52.027 Cuentas[2915:16937] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/9468CD53-9A82-469C-AF6B-77F2BE6A8A03/Documents
+2014-10-13 16:20:52.028 Cuentas[2915:16937] Good news: SQLite is thread safe!
+2014-10-13 16:24:17.166 Cuentas[3174:18664] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/D7B22AA0-54E6-4A81-B09F-F71AC7136FC6/Library/Cookies/Cookies.binarycookies
+2014-10-13 16:24:17.247 Cuentas[3174:18664] Multi-tasking -> Device: YES, App: YES
+2014-10-13 16:24:17.252 Cuentas[3174:18664] Unlimited access to network resources
+2014-10-13 16:24:17.421 Cuentas[3174:18664] [CDVTimer][keyboard] 0.098050ms
+2014-10-13 16:24:17.421 Cuentas[3174:18664] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-13 16:24:17.421 Cuentas[3174:18664] [CDVTimer][statusbar] 0.200033ms
+2014-10-13 16:24:17.422 Cuentas[3174:18664] [CDVTimer][TotalPluginStartup] 0.751972ms
+2014-10-13 16:24:17.895 Cuentas[3174:18664] Resetting plugins due to page load.
+2014-10-13 16:24:18.077 Cuentas[3174:18664] Finished load of: file:///Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Bundle/Application/765C4F52-542E-48AB-BB93-A5449C5C7138/Cuentas.app/www/index.html
+2014-10-13 16:24:18.189 Cuentas[3174:18664] Detected docs path: /Users/bryanvillafane/Library/Developer/CoreSimulator/Devices/547DF231-09FE-4F9B-9B2E-B497B6B6E401/data/Containers/Data/Application/D7B22AA0-54E6-4A81-B09F-F71AC7136FC6/Documents
+2014-10-13 16:24:18.191 Cuentas[3174:18664] Good news: SQLite is thread safe!
+2014-10-13 16:31:14.075 Cuentas[3174:18664] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
+2014-10-13 16:31:16.700 Cuentas[3174:18664] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
