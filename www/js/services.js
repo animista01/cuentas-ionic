@@ -19,6 +19,36 @@ angular.module('starter.services', [])
 .factory('Users', function ($cordovaSQLite, $q, DB) {
   var db = $cordovaSQLite.openDB("cuentas.db");
   return {
+    insertAll: function (aja) {
+      var defer = $q.defer();
+      for (var i = 0; i < aja.length; i++) {
+        console.log(aja[i].id)
+        $cordovaSQLite.execute(db, 'INSERT INTO users (id, name) VALUES (?, ?)', [aja[i].id, aja[i].name]).then(function (result) {
+          if(i === (aja.length - 1)){
+            defer.resolve( DB.fetch(result) );
+          }
+        }, function (err) {
+          console.log(err);
+          defer.reject(err);   
+        });
+      };
+      return defer.promise;
+    },
+    insertAllDos: function (aja) {
+      var defer = $q.defer();
+      for (var i = 0; i < aja.length; i++) {
+        console.log(aja[i].id)
+        $cordovaSQLite.execute(db, 'INSERT INTO pagos (id, abono, comentario, fecha_hasta, fecha_pago, intereses, saldo, user_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?)', [parseInt(aja[i].id), parseInt(aja[i].abono), aja[i].comentario, aja[i].fecha_hasta, aja[i].fecha_pago, parseInt(aja[i].intereses), parseInt(aja[i].saldo), parseInt(aja[i].user_id)]).then(function (result) {
+          if(i === (aja.length - 1)){
+            defer.resolve( DB.fetch(result) );
+          }
+        }, function (err) {
+          console.log(err);
+          defer.reject(err);   
+        });
+      };
+      return defer.promise;
+    },
     save: function(name) {
       var defer = $q.defer();
       $cordovaSQLite.execute(db, 'INSERT INTO users (name) VALUES (?)', [name]).then(function (result) {
